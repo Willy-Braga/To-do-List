@@ -7,7 +7,7 @@ Projeto criado para armazenamento de tarefas com o intuito de ajudar a treinar o
 <img src="https://img.shields.io/github/issues-pr-raw/Willy-Braga/calculadoraSimplesJS?style=social">
 <img src="https://img.shields.io/github/issues-closed/willy-braga/CaWilly-Braga/calculadoraSimplesJS?style=social">
 
-## [Link do Projeto](https://willy-braga.github.io/calculadoraSimplesJS/)
+## [Link do Projeto](https://willy-braga.github.io/To-do-List/)
 
 ### Linguagens e Ferramentas
 
@@ -21,12 +21,12 @@ Projeto criado para armazenamento de tarefas com o intuito de ajudar a treinar o
 
 ### Desktop
 
-<a href="">
+<a href="https://willy-braga.github.io/To-do-List/">
 <img src="src/designs/desktop-desing.png"/>
 </a>
 
 ### Mobile
-<a href="">
+<a href="https://willy-braga.github.io/To-do-List/">
 <img src="src/designs/mobile-desing.png" />
 </a>
 
