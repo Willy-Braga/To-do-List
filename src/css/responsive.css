@@ -1,0 +1,24 @@
+@media (max-width: 768px) {
+    body{
+        background: url(../images/background.png) no-repeat;
+    }
+
+    .container{
+        width: 300px;
+
+    }
+
+    .input-container{
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .input-task{
+        width: 95%;
+    }
+
+    .task img{
+        opacity: 1;
+    }
+    
+}
