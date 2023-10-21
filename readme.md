@@ -21,12 +21,12 @@ Projeto criado para armazenamento de tarefas com o intuito de ajudar a treinar o
 
 ### Desktop
 
-<a href="https://willy-braga.github.io/To-do-List/">
+<a href="https://willy-braga.github.io/To-do-List/" target='_blank'>
 <img src="src/designs/desktop-desing.png"/>
 </a>
 
 ### Mobile
-<a href="https://willy-braga.github.io/To-do-List/">
+<a href="https://willy-braga.github.io/To-do-List/" target='_blank'>
 <img src="src/designs/mobile-desing.png" />
 </a>
 
@@ -48,14 +48,14 @@ Projeto criado para armazenamento de tarefas com o intuito de ajudar a treinar o
 
 ### Contribuidores
 
-<a href="https://github.com/willy-braga">
+<a href="https://github.com/willy-braga" target='_blank'>
 <img src="https://github.com/willy-braga.png" width="70px" alt="Imagem de Perfil" />
 </a>
 
 
 ### Autor
 
-<a href="https://github.com/willy-braga">
+<a href="https://github.com/willy-braga" target='_blank'>
 <img src="https://github.com/willy-braga.png" width="70px" alt="Imagem de Perfil" />
 </a>
 
