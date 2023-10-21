@@ -48,14 +48,14 @@ Projeto criado para armazenamento de tarefas com o intuito de ajudar a treinar o
 
 ### Contribuidores
 
-<a href="https://github.com/willy-braga" target='_blank'>
+<a href="https://github.com/willy-braga" target="_blank">
 <img src="https://github.com/willy-braga.png" width="70px" alt="Imagem de Perfil" />
 </a>
 
 
 ### Autor
 
-<a href="https://github.com/willy-braga" target='_blank'>
+<a href="https://github.com/willy-braga" target="_blank">
 <img src="https://github.com/willy-braga.png" width="70px" alt="Imagem de Perfil" />
 </a>
 
