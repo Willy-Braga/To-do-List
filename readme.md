@@ -3,9 +3,11 @@
 
 Projeto criado para armazenamento de tarefas com o intuito de ajudar a treinar o JavaScript e lembrar de certas tarefas.
 
-<img src="https://img.shields.io/github/stars/Willy-Braga/calculadoraSimplesJS?style=social">
-<img src="https://img.shields.io/github/issues-pr-raw/Willy-Braga/calculadoraSimplesJS?style=social">
-<img src="https://img.shields.io/github/issues-closed/willy-braga/CaWilly-Braga/calculadoraSimplesJS?style=social">
+Baixe o código do projeto aqui: https://github.com/Willy-Braga/To-do-List.
+
+<img src="https://img.shields.io/github/stars/Willy-Braga/To-do-List?style=social">
+<img src="https://img.shields.io/github/issues-pr-raw/Willy-Braga/To-do-List?style=social">
+<img src="https://img.shields.io/github/issues-closed/willy-braga/To-do-List?style=social">
 
 ## [Link do Projeto](https://willy-braga.github.io/To-do-List/)
 
